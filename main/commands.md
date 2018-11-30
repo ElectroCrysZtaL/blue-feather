@@ -33,12 +33,12 @@ There are currently NO problems for Blue Feather! Hurray!
 Example:
 
 ```text
-bf?help [category]
+bf?help 
 
-Returns: "[array of commands]"
+Returns: [Array of commands]
 ```
 
-Gives you the [category of commands](commands-list.md#categories) that you can use. Here's the list of categories:
+Gives you the category of commands that you can use. Here's the list of categories:
 
 * Moderation
 * Utilities
@@ -65,7 +65,7 @@ bf?say [message]
 Returns: "[message]"
 ```
 
-#### bf?guilds [\(developer only\)](commands-list.md#developer)
+#### bf?guilds _\(developer only\)_
 
 Returns an array of guilds. Includes a list of guild names, channels, and members.  Example: 
 
