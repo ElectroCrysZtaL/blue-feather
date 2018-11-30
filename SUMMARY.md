@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Getting Started
+## Blue feather
 
 * [Commands](main/commands.md)
 * [Contribute](main/contribute.md)
