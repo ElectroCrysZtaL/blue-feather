@@ -38,7 +38,7 @@ bf?help [category]
 Returns: "[array of commands]"
 ```
 
-Gives you the category of commands that you can use. Here's the list of categories:
+Gives you the [category of commands](commands-list.md#categories) that you can use. Here's the list of categories:
 
 * Moderation
 * Utilities
@@ -65,9 +65,7 @@ bf?say [message]
 Returns: "[message]"
 ```
 
-#### bf?guilds 
-
-`Developer Only`
+#### bf?guilds [\(developer only\)](commands-list.md#developer)
 
 \`\`
 
