@@ -67,6 +67,18 @@ Returns: "[message]"
 
 #### bf?guilds [\(developer only\)](commands-list.md#developer)
 
+Returns an array of guilds. Includes a list of guild names, channels, and members.  Example: 
+
+```text
+bf?guilds
+
+Returns: [guildname] [guildchannels] [guildmembers]
+```
+
+> It will return an array of guilds
+
+
+
 \`\`
 
 
