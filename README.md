@@ -1,10 +1,8 @@
 ---
-description: >-
-  Blue feather is currently a bot in development. So no Pages are available for
-  this bot currently.
+description: Blue feather is currently a bot in development.
 ---
 
-# Blue Feather
+# Introduction
 
 ## What is Blue Feather?
 
