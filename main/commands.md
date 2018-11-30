@@ -34,6 +34,8 @@ Example:
 
 ```text
 bf?help [category]
+
+Returns: "[array of commands]"
 ```
 
 Gives you the category of commands that you can use. Here's the list of categories:
@@ -41,5 +43,33 @@ Gives you the category of commands that you can use. Here's the list of categori
 * Moderation
 * Utilities
 
-More coming soon!
+More categories coming soon!
+
+#### bf?ping
+
+Gives you the roundtrip time for the message to send. Example:
+
+```text
+bf?ping
+
+Returns: "[number]ms"
+```
+
+#### bf?say
+
+Returns the same message you sent. \(It deletes your message\) Example:
+
+```text
+bf?say [message]
+
+Returns: "[message]"
+```
+
+#### bf?guilds 
+
+`Developer Only`
+
+\`\`
+
+
 
